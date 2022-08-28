@@ -704,7 +704,7 @@ button{
   color: #ffa260;
   border: 2px solid;
   padding: 5px 10px;
-  font-size: 50%;
+  font-size: 30%;
   transition-property: color 0.25 background-color 0.25 border-color 0.25;
   transition-duration: 0.25s;
   transition-timing-function: ease-in;
@@ -732,7 +732,7 @@ button:hover{
 h3{
   color: white;
   text-align: center;
-  font-size: 50%;
+  font-size: 30%;
 }
 
 .neon {
