@@ -242,6 +242,12 @@ hr {
 	margin-bottom:1.5em;
 	margin-top: 1.5em;
 }
+/* img { */
+	/* height:auto; */
+	/* Make sure images are scaled correctly. */
+	/* max-width:100%; */
+	/* Adhere to container width. */
+/* } */
 img {
 	height:auto;
 	/* Make sure images are scaled correctly. */
@@ -2110,11 +2116,11 @@ a.portfoliotype:last-child:after {
 .woocommerce ul.products li.product {
 	transition:all 0.3s;
 }
-.woocommerce ul.products li.product:hover {
+/* .woocommerce ul.products li.product:hover {
 	border:1px solid #eee;
 	padding:20px;
 	transition:all 0.3s;
-}
+} */
 .woocommerce ul.products li.product h3 {
 	font-size:1.1em;
 	font-weight:400;
